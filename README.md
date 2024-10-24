@@ -40,9 +40,9 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono+NL&weight=100&size=24&duration=3500&pause=900000000000000000000000000000000000000000000000000000000000000000000000000000000&color=FFD291&left=true&vCenter=true&random=true&width=1164&lines=⭐+Game+Projects)](https://git.io/typing-svg)
 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=almile&repo=JS-Piano-Simulator&theme=react&bg_color=0d1117&title_color=fff&border_color=FFD291&icon_color=FFD291&show_icons=true" alt="readme-typing-svg"></a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=almile&repo=JS-Detona-Ralph&theme=react&bg_color=0d1117&title_color=fff&border_color=FFD291&icon_color=FFD291&show_icons=true" alt="readme-typing-svg"></a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=almile&repo=js-yugioh-assets&theme=react&bg_color=0d1117&title_color=fff&border_color=FFD291&icon_color=FFD291&show_icons=true" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Almile/JS-Piano-Simulator"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=almile&repo=JS-Piano-Simulator&theme=react&bg_color=0d1117&title_color=fff&border_color=FFD291&icon_color=FFD291&show_icons=true" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Almile/JS-Detona-Ralph"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=almile&repo=JS-Detona-Ralph&theme=react&bg_color=0d1117&title_color=fff&border_color=FFD291&icon_color=FFD291&show_icons=true" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Almile/js-yugioh-assets"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=almile&repo=js-yugioh-assets&theme=react&bg_color=0d1117&title_color=fff&border_color=FFD291&icon_color=FFD291&show_icons=true" alt="readme-typing-svg"></a>
     <br>
   <p align="center" ><a  href="https://github.com/Almile?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=FFD291&logo=repo"/></a></p>
 </p>
