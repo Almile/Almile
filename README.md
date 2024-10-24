@@ -20,7 +20,7 @@
 <img align="right" src="https://github.com/user-attachments/assets/36c25b6d-95f4-485d-b9b7-9b0218ca1afd" alt="almile" width="25%" />
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+NL&weight=100&size=20&duration=3500&pause=100&color=FFD9AFFF&left=true&vcenter=true&random=true&width=650&separator=%3D&lines=%3Ch1%3EHello+World!%3C%2Fh1%3E%3Dcout%3C%3C%22Hello+World!%22;%3Dconsole.log(%22Hello+World!%22);%3DSystem.out.println(%22Hello+World!%22);" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+NL&weight=100&size=20&duration=3500&pause=100&color=FFD9AFFF&left=true&vcenter=true&random=true&width=600&separator=%3D&lines=%3Ch1%3EHello+World!%3C%2Fh1%3E%3Dcout%3C%3C%22Hello+World!%22;%3Dconsole.log(%22Hello+World!%22);%3DSystem.out.println(%22Hello+World!%22);" alt="Typing SVG" />
   <p align="justify">
 🔭 I'm currently working on creative and innovative web development projects, 🌱 continuously learning about new technologies like APIs, JavaScript, and responsive design. 👯 I'm open to collaborating on front-end, back-end, and interactive website projects. 💬 Feel free to ask me about web development, APIs, and interface design.
   </p>
@@ -40,7 +40,7 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono+NL&weight=100&size=24&duration=3500&pause=900000000000000000000000000000000000000000000000000000000000000000000000000000000&color=FFD291&left=true&vCenter=true&random=true&width=1164&lines=⭐+Game+Projects)](https://git.io/typing-svg)
 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="32,5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=almile&repo=JS-Piano-Simulator&theme=react&bg_color=0d1117&title_color=fff&border_color=FFD291&icon_color=FFD291&show_icons=true" alt="readme-typing-svg"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=almile&repo=JS-Piano-Simulator&theme=react&bg_color=0d1117&title_color=fff&border_color=FFD291&icon_color=FFD291&show_icons=true" alt="readme-typing-svg"></a>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=almile&repo=JS-Detona-Ralph&theme=react&bg_color=0d1117&title_color=fff&border_color=FFD291&icon_color=FFD291&show_icons=true" alt="readme-typing-svg"></a>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=almile&repo=js-yugioh-assets&theme=react&bg_color=0d1117&title_color=fff&border_color=FFD291&icon_color=FFD291&show_icons=true" alt="readme-typing-svg"></a>
     <br>
