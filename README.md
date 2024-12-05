@@ -101,7 +101,7 @@
 
 <p align="center">
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almile&cardType=github&theme=onedark&preferLogin=false&bg_color=FFB02300&Text=DDDDDD&Title=B0600E&border_color=FFD9AFFF&card_width=200" alt="readme-typing-svg">  
-  <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Almile&theme=onedark&background=EB545400&border=FFD9AFFF&excludeDaysLabel=BE5900&card_height=200)](https://git.io/streak-stats" alt="readme-typing-svg">
+  <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Almile&theme=onedark&background=EB545400&border=FFD9AFFF&excludeDaysLabel=BE5900&card_height=200" alt="readme-typing-svg">
       <br><br>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/Almile?cardType=github&theme=onedark&preferLogin=false&Background=FFB02300&Text=DDDDDD&Title=B0600E&border=FFD9AFFF&card_width=500">
