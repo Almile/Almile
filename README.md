@@ -46,11 +46,6 @@
    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=fffe&color:72b12e" alt="Typing SVG" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFD9AF&color:FFF">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Instagram-eee?style=for-the-badge&logo=instagram&logoColor=aa631b&color:FFF">
-   <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFD9AF&color:FFF" alt="Typing SVG" />
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-email-000?style=for-the-badge&logo=gmail&logoColor=72b12e&color:FFF">
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-email-eee?style=for-the-badge&logo=gmail&logoColor=72b12e&color:FFF">
    <img src="https://img.shields.io/badge/-email-000?style=for-the-badge&logo=gmail&logoColor=72b12e&color:FFF" alt="Typing SVG" />
@@ -59,14 +54,15 @@
 <br><br>
 
 
-<p align="center"> 
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+NL&weight=100&size=24&duration=3500&pause=900000000000000000000000000000000000000000000000000000000000000000000000000000000&color=FFD291&left=true&vCenter=true&random=true&width=1164&lines=⭐+Game+Projects">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+NL&weight=100&size=24&duration=3500&pause=900000000000000000000000000000000000000000000000000000000000000000000000000000000&color=aa631b&left=true&vCenter=true&random=true&width=1164&lines=⭐+Game+Projects">
-   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+NL&weight=100&size=24&duration=3500&pause=900000000000000000000000000000000000000000000000000000000000000000000000000000000&color=FFD291&left=true&vCenter=true&random=true&width=1164&lines=⭐+Game+Projects" alt="Typing SVG" />
-</picture>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+NL&weight=100&size=24&duration=3500&pause=999999999&color=FFD291&center=true&vCenter=true&width=500&lines=%E2%AD%90+Game+Projects"
+    alt="Game Projects"
+  />
+</p>
   
 <!-- Cartões-->
+
 <a href="https://github.com/Almile/JS-Piano-Simulator">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=almile&repo=JS-Piano-Simulator&theme=react&bg_color=0d1117&title_color=fff&border_color=FFD291&icon_color=FFD291&show_icons=true">
@@ -85,7 +81,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=almile&repo=js-yugioh-assets&theme=moltack">
   <img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=almile&repo=js-yugioh-assets&theme=react&bg_color=0d1117&title_color=fff&border_color=FFD291&icon_color=FFD291&show_icons=true" alt="JS-Detona-Ralphr" />
 </picture></a>
-  
+  <br><br>
+
   <p align="center" >
     <a  href="https://github.com/Almile?tab=repositories&sort=stargazers">
  <picture>
@@ -100,13 +97,11 @@
 
 
 <p align="center">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almile&cardType=github&theme=onedark&preferLogin=false&bg_color=FFB02300&Text=DDDDDD&Title=B0600E&border_color=FFD9AFFF&card_width=200" alt="readme-typing-svg">  
-  <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Almile&theme=onedark&background=EB545400&border=FFD9AFFF&excludeDaysLabel=BE5900&card_height=200" alt="readme-typing-svg">
-      <br><br>
+  <img  width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Almile&theme=onedark&background=EB545400&border=FFD9AFFF&excludeDaysLabel=BE5900&card_height=200" alt="readme-typing-svg">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/Almile?cardType=github&theme=onedark&preferLogin=false&Background=FFB02300&Text=DDDDDD&Title=B0600E&border=FFD9AFFF&card_width=500">
   <source media="(prefers-color-scheme: light)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/Almile?cardType=github&theme=onedark&preferLogin=false&Background=FFB02300&Text=444&Title=B0600E&border=FFD9AFFF&card_width=500">
-   <img width="50%" src="https://awesome-github-stats.azurewebsites.net/user-stats/Almile?cardType=github&theme=onedark&preferLogin=false&Background=FFB02300&Text=DDDDDD&Title=B0600E&border=FFD9AFFF&card_width=500"  alt="Typing SVG" />
+   <img width="45%" src="https://awesome-github-stats.azurewebsites.net/user-stats/Almile?cardType=github&theme=onedark&preferLogin=false&Background=FFB02300&Text=DDDDDD&Title=B0600E&border=FFD9AFFF&card_width=500"  alt="Typing SVG" />
   </picture>
 </p>
 
